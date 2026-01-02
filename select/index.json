@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "頽れて。",
+  "base_artist": "ミ瑞",
+  "createdAt": "2026-01-02T16:42:06.540805Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "頽れて。",
+      "artist": "ミ瑞",
+      "has_synced": false,
+      "path": "select/pl_01_頽れて。_ミ瑞.txt"
+    }
+  ]
+}
